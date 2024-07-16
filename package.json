@@ -1,0 +1,18 @@
+{
+  "name": "cypressEvinced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@evinced/cypress-sdk": "/Users/kevinberg/downloads/evinced-cypress-sdk-2.4.2-private.tgz",
+    "update": "^0.7.4"
+  },
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
